@@ -1,9 +1,9 @@
 # BÀI LÀM PHA 1 – HACKATHON 02
 
 - **Mã đề:** 08
-- **Họ tên:**
-- **Lớp:**
-- **Link repository Pha1:**
+- **Họ tên:*Phí Anh Minh*
+- **Lớp:*CNNT4*
+- **Link repository Pha1:*https://github.com/Phianhminh/CNNT4_PromptingAI_Pha01_Pha02/edit/main/bai_lam_pha1.md*
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
