@@ -2,7 +2,7 @@
 
 - **Mã đề:** 08
 - **Họ tên:*Phí Anh Minh*
-- **Lớp:**
+- **Lớp:*CNNT4*
 - **Link repository Pha2:*https://github.com/Phianhminh/CNNT4_PromptingAI_Pha01_Pha02/blob/main/bai_lam_pha2.md*
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**
 
